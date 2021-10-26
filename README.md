@@ -1,5 +1,5 @@
 <br />
-<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138907461-2e32b422-8e19-4d4f-a135-70a3cacc2ff5.png /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138907461-2e32b422-8e19-4d4f-a135-70a3cacc2ff5.png" /></p>
 
 <h2 align="center">Proof of Concept (POC) for Petshop API in Node.JS</h2>
 
