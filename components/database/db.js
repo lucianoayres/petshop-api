@@ -1,9 +1,6 @@
 import Sequelize from 'sequelize'
 
-// PostgreSQL database URL (test database)
-//const databaseUrl = "postgres://ctcjigca:2H6irrl6hkjyIMfl5p9LOFF13z8N9xU2@batyr.db.elephantsql.com/ctcjigca";
-
-// PostgreSQL database URL (desafio database)
+// PostgreSQL database URL
 const databaseUrl = process.env.POSTGRE_URI
 
 const sequelize = new Sequelize(databaseUrl, {
