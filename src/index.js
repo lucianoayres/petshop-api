@@ -1,11 +1,11 @@
 import express from 'express'
 import cors from 'cors'
 import helmet from 'helmet'
-import proprietarioRouter from './components/proprietario/proprietario.route.js'
-import animalRouter from './components/animal/animal.route.js'
-import servicoRouter from './components/servico/servico.route.js'
-import postRouter from './components/post/post.route.js'
-import comentarioRouter from './components/comentario/comentario.route.js'
+import proprietarioRouter from '../components/proprietario/proprietario.route.js'
+import animalRouter from '../components/animal/animal.route.js'
+import servicoRouter from '../components/servico/servico.route.js'
+import postRouter from '../components/post/post.route.js'
+import comentarioRouter from '../components/comentario/comentario.route.js'
 
 const PORT = process.env.PORT || 3000
 
